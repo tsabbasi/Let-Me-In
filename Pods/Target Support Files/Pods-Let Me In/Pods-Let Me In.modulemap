@@ -1,0 +1,6 @@
+framework module Pods_Let_Me_In {
+  umbrella header "Pods-Let Me In-umbrella.h"
+
+  export *
+  module * { export * }
+}
